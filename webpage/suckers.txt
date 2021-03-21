@@ -1,0 +1,3 @@
+
+Farxod;MD;22222222;Visa
+lll;MA;77777777;Mastercard
